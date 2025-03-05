@@ -1,0 +1,3 @@
+neural network	MLPClassifier= 0.98%
+naive_bayes	BernoulliNB=   0.33%
+KNeighborsClassifier= 0.81% 
